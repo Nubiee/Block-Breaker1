@@ -23,8 +23,8 @@ GameObject:
   - component: {fileID: 61229282525590888}
   - component: {fileID: 114819253586994850}
   m_Layer: 0
-  m_Name: 1 hit
-  m_TagString: Breakable
+  m_Name: invincibe
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112,7 +112,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 07f18cfaf34b7ea48ba23662a5f7f6cd, type: 3}
-  m_Color: {r: 0.79849815, g: 1, b: 0.2515679, a: 1}
+  m_Color: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

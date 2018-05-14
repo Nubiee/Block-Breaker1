@@ -1419,6 +1419,11 @@ Prefab:
       propertyPath: levelmanager
       value: 
       objectReference: {fileID: 1240336124}
+    - target: {fileID: 61977205888982100, guid: 60046518e7ca02d45a137e569df8cc89,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 60046518e7ca02d45a137e569df8cc89, type: 2}
   m_IsPrefabParent: 0
